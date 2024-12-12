@@ -1,4 +1,4 @@
-# HW2_Autotest_Python_Linux
+# HW_3_Autotest_Python_Linux
 
 __Урок 3. Использование фикстур в pytest. Создание отчетов о тестировании__
 
